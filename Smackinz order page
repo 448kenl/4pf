@@ -1,0 +1,68 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SMACKKINZ PACKZ | Order</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: url('your-logo-background.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #fff;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px;
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 30px;
+    }
+    .product-box {
+      background: rgba(0,0,0,0.7);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    }
+    .images {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+    .images img {
+      width: 100%;
+      height: 220px;
+      object-fit: cover;
+    }
+    .info {
+      padding: 12px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.95rem;
+    }
+    .info .name {
+      font-weight: bold;
+    }
+    .socials {
+      text-align: center;
+      margin-top: 40px;
+    }
+    .socials a {
+      color: #fff;
+      font-size: 1.5rem;
+      margin: 0 10px;
+      transition: color 0.3s ease;
+    }
+    .socials a:hover {
+      color: #ff4ddb;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Repeat this block for each product -->
+    <div class="product-box">
+      <div class="images">
+        <img src="
