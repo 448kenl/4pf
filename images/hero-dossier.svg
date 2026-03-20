@@ -1,0 +1,18 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 1400'>
+  <rect width='1200' height='1400' fill='#090909'/>
+  <rect x='40' y='40' width='1120' height='1320' rx='28' fill='none' stroke='#3f3f3f' stroke-width='4' stroke-dasharray='10 10'/>
+  <circle cx='940' cy='210' r='140' fill='none' stroke='#8e8e8e' stroke-width='6'/>
+  <path d='M120 240H1020' stroke='#c6c6c6' stroke-width='16'/>
+  <path d='M180 340H1080' stroke='#4f4f4f' stroke-width='4'/>
+  <text x='120' y='190' fill='#efefef' font-size='120' font-family='Arial Black, Arial' letter-spacing='8'>DUMPERS</text>
+  <text x='120' y='320' fill='#efefef' font-size='120' font-family='Arial Black, Arial' letter-spacing='8'>PARADISE</text>
+  <text x='120' y='470' fill='#b7b7b7' font-size='64' font-family='Arial Black, Arial'>HUSTLERS SACRIFICE</text>
+  <text x='120' y='610' fill='#9a9a9a' font-size='30' font-family='Arial' letter-spacing='4'>CHATGPT GENERATION SLOT //</text>
+  <text x='120' y='654' fill='#9a9a9a' font-size='30' font-family='Arial' letter-spacing='4'>DROP POSTER / CAMPAIGN STILL</text>
+  <rect x='120' y='740' width='420' height='420' fill='#101010' stroke='#595959' stroke-width='4'/>
+  <rect x='590' y='740' width='420' height='420' fill='#101010' stroke='#595959' stroke-width='4'/>
+  <text x='190' y='955' fill='#dadada' font-size='34' font-family='Arial'>EDITORIAL FRAME</text>
+  <text x='675' y='955' fill='#dadada' font-size='34' font-family='Arial'>PRODUCT DETAIL</text>
+  <text x='120' y='1260' fill='#c8ab76' font-size='34' font-family='Arial Black, Arial'>NUMBERED DROP //</text>
+  <text x='470' y='1260' fill='#efefef' font-size='34' font-family='Arial'>001 / 350</text>
+</svg>

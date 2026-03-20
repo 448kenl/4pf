@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 1100'>
+  <rect width='900' height='1100' fill='#0b0b0b'/><rect x='50' y='50' width='800' height='1000' rx='30' fill='#121212' stroke='#5f5f5f' stroke-width='4'/>
+  <text x='90' y='160' fill='#ededed' font-size='64' font-family='Arial Black, Arial'>HOODIE //</text>
+  <text x='90' y='235' fill='#a8a8a8' font-size='42' font-family='Arial'>CHATGPT IMAGE SLOT</text>
+  <path d='M450 310c80 0 150 60 150 160l120 110-90 80v220H270V860l-90-80 120-110c0-100 70-160 150-160z' fill='none' stroke='#d8d8d8' stroke-width='10'/>
+  <path d='M380 430c10-40 45-70 70-70s60 30 70 70' fill='none' stroke='#d8d8d8' stroke-width='10'/>
+  <text x='200' y='960' fill='#cecece' font-size='42' font-family='Arial Black, Arial'>NUMBERED DROP 002</text>
+</svg>
