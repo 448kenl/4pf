@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 900'>
+  <rect width='1200' height='900' fill='#0b0b0b'/>
+  <rect x='60' y='60' width='1080' height='780' rx='28' fill='#111' stroke='#505050' stroke-width='4'/>
+  <text x='120' y='180' fill='#ededed' font-size='80' font-family='Arial Black, Arial'>CUSTOMER FRAME //</text>
+  <text x='120' y='260' fill='#999' font-size='40' font-family='Arial'>Replace with ChatGPT street-style generation</text>
+  <circle cx='930' cy='250' r='110' fill='none' stroke='#cbcbcb' stroke-width='6'/>
+  <rect x='140' y='340' width='360' height='360' fill='#171717' stroke='#686868' stroke-width='4'/>
+  <rect x='540' y='340' width='220' height='360' fill='#171717' stroke='#686868' stroke-width='4'/>
+  <rect x='800' y='340' width='240' height='360' fill='#171717' stroke='#686868' stroke-width='4'/>
+  <text x='205' y='545' fill='#efefef' font-size='36' font-family='Arial'>OUTFIT SHOT</text>
+  <text x='575' y='545' fill='#efefef' font-size='36' font-family='Arial'>DETAIL</text>
+  <text x='828' y='545' fill='#efefef' font-size='36' font-family='Arial'>BACK VIEW</text>
+</svg>

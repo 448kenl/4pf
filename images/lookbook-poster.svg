@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 1500'>
+  <rect width='1200' height='1500' fill='#090909'/>
+  <rect x='40' y='40' width='1120' height='1420' rx='24' fill='#101010' stroke='#525252' stroke-width='4'/>
+  <text x='100' y='180' fill='#ededed' font-size='110' font-family='Arial Black, Arial'>LOOKBOOK</text>
+  <text x='100' y='290' fill='#ededed' font-size='110' font-family='Arial Black, Arial'>DOSSIER</text>
+  <text x='100' y='390' fill='#bdbdbd' font-size='52' font-family='Arial'>Hustlers Sacrifice campaign image slot</text>
+  <path d='M100 470h990' stroke='#d1d1d1' stroke-width='8'/>
+  <path d='M160 620h880v600H160z' fill='none' stroke='#6e6e6e' stroke-width='4' stroke-dasharray='12 12'/>
+  <text x='310' y='940' fill='#efefef' font-size='54' font-family='Arial Black, Arial'>CHATGPT GENERATION</text>
+  <text x='395' y='1010' fill='#efefef' font-size='54' font-family='Arial Black, Arial'>GOES HERE</text>
+  <text x='100' y='1280' fill='#c8ab76' font-size='36' font-family='Arial Black, Arial'>SECRET SIGNAL //</text>
+  <text x='390' y='1280' fill='#efefef' font-size='36' font-family='Arial'>SMS MEMBERS HEAR FIRST</text>
+</svg>
